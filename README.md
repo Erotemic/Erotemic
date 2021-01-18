@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Metrics](https://github.com/Vault108/Vault108/blob/main/github-metrics.svg)
+![Metrics](https://github.com/Erotemic/Erotemic/blob/main/github-metrics.svg)
 
 - 🔭 I’m currently working on: computer vision research
 - 🌱 I’m currently learning: as much as possible
