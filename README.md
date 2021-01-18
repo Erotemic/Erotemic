@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Metrics](https://github.com/Erotemic/Erotemic/blob/main/github-metrics.svg)
+[![Erotemic's github stats](https://github-readme-stats.vercel.app/api?username=Erotemic)](https://github.com/Erotemic/github-readme-stats)
+
+
 
 - 🔭 I’m currently working on: computer vision research
 - 🌱 I’m currently learning: as much as possible
