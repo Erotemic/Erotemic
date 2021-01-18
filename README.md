@@ -10,4 +10,4 @@
 - 💬 Ask me about: doctests
 - 📫 How to reach me: twitter
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: the maximum amount of information that can be constained in a finite space is proportional to its surface area and not its volume. (https://en.wikipedia.org/wiki/Holographic_principle#Energy,_matter,_and_information_equivalence)
+- ⚡ Fun fact: the maximum amount of information that can be contained in a finite space is proportional to its surface area and not its volume. (https://en.wikipedia.org/wiki/Holographic_principle#Energy,_matter,_and_information_equivalence)
