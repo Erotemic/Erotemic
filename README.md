@@ -16,6 +16,7 @@
  
  All of the projects on this front page are my own and maintained by me. Here are is a list that goes beyond the six on the front page:
  
+ - https://github.com/Erotemic/xdoctest
  - https://github.com/Erotemic/ubelt
  - https://github.com/Erotemic/mkinit
  - https://github.com/Erotemic/vimtk
