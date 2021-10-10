@@ -16,12 +16,12 @@
  
  All of the projects on this front page are my own and maintained by me. Here are is a list that goes beyond the six on the front page:
  
- https://github.com/Erotemic/ubelt
- https://github.com/Erotemic/mkinit
- https://github.com/Erotemic/vimtk
- https://github.com/Erotemic/graphid
- https://github.com/Erotemic/xdev
- https://github.com/Erotemic/progiter
- https://github.com/Erotemic/ibeis
- https://github.com/Erotemic/pypogo
- https://github.com/Erotemic/git-sync
+ - https://github.com/Erotemic/ubelt
+ - https://github.com/Erotemic/mkinit
+ - https://github.com/Erotemic/vimtk
+ - https://github.com/Erotemic/graphid
+ - https://github.com/Erotemic/xdev
+ - https://github.com/Erotemic/progiter
+ - https://github.com/Erotemic/ibeis
+ - https://github.com/Erotemic/pypogo
+ - https://github.com/Erotemic/git-sync
