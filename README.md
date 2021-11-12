@@ -16,13 +16,25 @@
  
  All of the projects on this front page are my own and maintained by me. Here are is a list that goes beyond the six on the front page:
  
- - https://github.com/Erotemic/xdoctest
- - https://github.com/Erotemic/ubelt
- - https://github.com/Erotemic/mkinit
- - https://github.com/Erotemic/vimtk
- - https://github.com/Erotemic/graphid
- - https://github.com/Erotemic/xdev
- - https://github.com/Erotemic/progiter
- - https://github.com/Erotemic/ibeis
- - https://github.com/Erotemic/pypogo
- - https://github.com/Erotemic/git-sync
+### Python packages and utilities
+
+ - https://github.com/Erotemic/xdoctest - Python doctests done right.
+ - https://github.com/Erotemic/ubelt - Python utilities you wish you had. 
+ - https://github.com/Erotemic/mkinit - Autogenerate Python `__init__.py` files that expose submodule APIs at the top-level.
+ - https://github.com/Erotemic/vimtk - My Vim plugin.
+ - https://github.com/Erotemic/xdev - Python utilities useful for development and debugging.
+ - https://github.com/Erotemic/progiter - Small standalone progress bar. 
+ - https://github.com/Erotemic/timerit - Pure python syntax for timeit-like timings of blocks of code.
+ - https://github.com/Erotemic/git-sync - Commit your changes on a local machine and automatically pull them on a remote.
+
+### Animal Identification (products of my PhD)
+
+ - https://github.com/Erotemic/ibeis - PhD Thesis project: automatic identification of patterned individual animals. Successor to hotspotter.
+ - https://github.com/Erotemic/graphid - A standalone version of the graph identification algorithm from my thesis.
+ - https://github.com/Erotemic/hotspotter - My original Python code for the hotspotter identification algorithm.
+ - https://github.com/Erotemic/crall-thesis-2017 - The LaTeX source for my thesis.
+
+### Fun Projects
+
+ - https://github.com/Erotemic/pypogo - Pokemon Go calculations and POC battle simulator
+ - https://github.com/Erotemic/shitspotter - Poop detection in images.
