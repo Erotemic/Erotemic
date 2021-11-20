@@ -21,11 +21,12 @@
  - https://github.com/Erotemic/xdoctest - Python doctests done right.
  - https://github.com/Erotemic/ubelt - Python utilities you wish you had. 
  - https://github.com/Erotemic/mkinit - Autogenerate Python `__init__.py` files that expose submodule APIs at the top-level.
- - https://github.com/Erotemic/vimtk - My Vim plugin.
+ - https://github.com/Erotemic/vimtk - My Vim plugin, which contains useful functional macros and key remaps.
  - https://github.com/Erotemic/xdev - Python utilities useful for development and debugging.
  - https://github.com/Erotemic/progiter - Small standalone progress bar. 
  - https://github.com/Erotemic/timerit - Pure python syntax for timeit-like timings of blocks of code.
- - https://github.com/Erotemic/git-sync - Commit your changes on a local machine and automatically pull them on a remote.
+ - https://github.com/Erotemic/git-sync - Commit your changes on a local machine and automatically pull them on a remote. 
+ - https://github.com/pyutils/line_profiler - I help maintain this widely used Python tool.
 
 ### Animal Identification (products of my PhD)
 
