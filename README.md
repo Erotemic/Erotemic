@@ -60,3 +60,23 @@
 
  - https://github.com/Erotemic/pypogo - Pokemon Go calculations and POC battle simulator
  - https://github.com/Erotemic/shitspotter - Poop detection in images.
+
+
+### Gitlab Repos
+
+- https://gitlab.kitware.com.com/computer-vision/torch_liberator - Partial weight transfer between networks. 3rd place winner of PyTorch Hackaton 2021 https://devpost.com/software/torchliberator-partial-weight-loading
+
+- https://gitlab.kitware.com.com/computer-vision/kwcoco - A computer-vision dataset manifest. Extension of MS-COCO.
+
+
+- https://gitlab.kitware.com.com/python/liberator - Static Python code extraction.
+- https://gitlab.kitware.com.com/utils/scriptconfig - Simplified script configuration via kwargs, cli, or yaml.
+
+- 
+- https://gitlab.kitware.com.com/computer-vision/kwarray - Kitware python array helpers
+- https://gitlab.kitware.com.com/computer-vision/kwimage - Kitware python image helpers
+- https://gitlab.kitware.com.com/computer-vision/kwplot - Kitware python plotting helpers
+
+- https://gitlab.kitware.com.com/computer-vision/netharn - Probably best to use pytorch-lightning instead, still cool network stuff in here through
+- https://gitlab.kitware.com.com/computer-vision/ndsampler - Fast windowed sampling from images
+
