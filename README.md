@@ -13,8 +13,29 @@
 - 🧠 I truly enjoy being corrected; it makes me less incorrect, and I don't like being incorrect.
 - ⚡ Fun fact: the maximum amount of information that can be contained in a finite space is proportional to its surface area and not its volume. (https://en.wikipedia.org/wiki/Holographic_principle#Energy,_matter,_and_information_equivalence)
  
+  https://img.shields.io/github/followers/Erotemic.svg?style=social&label=Followers:Erotemic&maxAge=2592000
+
+ All of the projects on this front page are my own and maintained by me. Here are is a list that goes beyond the six on the front page. First an overview:
  
- All of the projects on this front page are my own and maintained by me. Here are is a list that goes beyond the six on the front page:
+ 
+[![GitHub stars](https://img.shields.io/github/stars/Erotemic/xdoctest?style=social&label=stars:xdoctest)](https://github.com/Erotemic/xdoctest)
+[![GitHub stars](https://img.shields.io/github/stars/Erotemic/ubelt?style=social&label=stars:ubelt)](https://github.com/Erotemic/ubelt)
+[![GitHub stars](https://img.shields.io/github/stars/Erotemic/mkinit?style=social&label=stars:mkinit)](https://github.com/Erotemic/mkinit)
+[![GitHub stars](https://img.shields.io/github/stars/Erotemic/vimtk?style=social&label=stars:vimtk)](https://github.com/Erotemic/vimtk)
+[![GitHub stars](https://img.shields.io/github/stars/Erotemic/xdev?style=social&label=stars:xdev)](https://github.com/Erotemic/xdev)
+[![GitHub stars](https://img.shields.io/github/stars/Erotemic/progiter?style=social&label=stars:progiter)](https://github.com/Erotemic/progiter)
+[![GitHub stars](https://img.shields.io/github/stars/Erotemic/timerit?style=social&label=stars:timerit)](https://github.com/Erotemic/timerit)
+[![GitHub stars](https://img.shields.io/github/stars/Erotemic/git-sync?style=social&label=stars:git-sync)](https://github.com/Erotemic/git-sync)
+[![GitHub stars](https://img.shields.io/github/stars/pyutils/line_profiler?style=social&label=stars:line_profiler)](https://github.com/pyutils/line_profiler)
+[![GitHub stars](https://img.shields.io/github/stars/Erotemic/ibeis?style=social&label=stars:ibeis)](https://github.com/Erotemic/ibeis)
+[![GitHub stars](https://img.shields.io/github/stars/Erotemic/graphid?style=social&label=stars:graphid)](https://github.com/Erotemic/graphid)
+[![GitHub stars](https://img.shields.io/github/stars/Erotemic/hotspotter?style=social&label=stars:hotspotter)](https://github.com/Erotemic/hotspotter)
+[![GitHub stars](https://img.shields.io/github/stars/Erotemic/crall-thesis-2017?style=social&label=stars:crall-thesis-2017)](https://github.com/Erotemic/crall-thesis-2017)
+[![GitHub stars](https://img.shields.io/github/stars/Erotemic/pypogo?style=social&label=stars:pypogo)](https://github.com/Erotemic/pypogo)
+[![GitHub stars](https://img.shields.io/github/stars/Erotemic/shitspotter?style=social&label=stars:shitspotter)](https://github.com/Erotemic/shitspotter)
+
+ 
+ And then the details:
  
 ### Python packages and utilities
 
