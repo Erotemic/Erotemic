@@ -72,7 +72,7 @@
 - https://gitlab.kitware.com.com/python/liberator - Static Python code extraction.
 - https://gitlab.kitware.com.com/utils/scriptconfig - Simplified script configuration via kwargs, cli, or yaml.
 
-- 
+
 - https://gitlab.kitware.com.com/computer-vision/kwarray - Kitware python array helpers
 - https://gitlab.kitware.com.com/computer-vision/kwimage - Kitware python image helpers
 - https://gitlab.kitware.com.com/computer-vision/kwplot - Kitware python plotting helpers
