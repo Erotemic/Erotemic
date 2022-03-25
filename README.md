@@ -39,44 +39,44 @@
  
 ### Python packages and utilities
 
- - https://github.com/Erotemic/xdoctest - Python doctests done right.
- - https://github.com/Erotemic/ubelt - Python utilities you wish you had. 
- - https://github.com/Erotemic/mkinit - Autogenerate Python `__init__.py` files that expose submodule APIs at the top-level.
- - https://github.com/Erotemic/vimtk - My Vim plugin, which contains useful functional macros and key remaps.
- - https://github.com/Erotemic/xdev - Python utilities useful for development and debugging.
- - https://github.com/Erotemic/progiter - Small standalone progress bar. 
- - https://github.com/Erotemic/timerit - Pure python syntax for timeit-like timings of blocks of code.
- - https://github.com/Erotemic/git-sync - Commit your changes on a local machine and automatically pull them on a remote. 
- - https://github.com/pyutils/line_profiler - I help maintain this widely used Python tool.
+ - https://github.com/Erotemic/xdoctest - Python doctests done right. (mature)
+ - https://github.com/Erotemic/ubelt - Python utilities you wish you had. (mature)
+ - https://github.com/Erotemic/mkinit - Autogenerate Python `__init__.py` files that expose submodule APIs at the top-level. (mature)
+ - https://github.com/Erotemic/vimtk - My Vim plugin, which contains useful functional macros and key remaps. (stable)
+ - https://github.com/Erotemic/xdev - Python utilities useful for development and debugging. (stable)
+ - https://github.com/Erotemic/progiter - Small standalone progress bar. (mature)
+ - https://github.com/Erotemic/timerit - Pure python syntax for timeit-like timings of blocks of code. (mature)
+ - https://github.com/Erotemic/git-sync - Commit your changes on a local machine and automatically pull them on a remote. (stable)
+ - https://github.com/pyutils/line_profiler - I help maintain this widely used Python tool. (maintaining)
 
 ### Animal Identification (products of my PhD)
 
- - https://github.com/Erotemic/ibeis - PhD Thesis project: automatic identification of patterned individual animals. Successor to hotspotter.
- - https://github.com/Erotemic/graphid - A standalone version of the graph identification algorithm from my thesis.
- - https://github.com/Erotemic/hotspotter - My original Python code for the hotspotter identification algorithm.
- - https://github.com/Erotemic/crall-thesis-2017 - The LaTeX source for my thesis.
+ - https://github.com/Erotemic/ibeis - PhD Thesis project: automatic identification of patterned individual animals. Successor to hotspotter. (maintaining, help wanted with win32/osx support).
+ - https://github.com/Erotemic/graphid - A standalone version of the graph identification algorithm from my thesis. (complete)
+ - https://github.com/Erotemic/hotspotter - My original Python code for the hotspotter identification algorithm. (shoddy)
+ - https://github.com/Erotemic/crall-thesis-2017 - The LaTeX source for my thesis. (complete)
 
 ### Fun Projects
 
- - https://github.com/Erotemic/pypogo - Pokemon Go calculations and POC battle simulator
- - https://github.com/Erotemic/shitspotter - Poop detection in images.
+ - https://github.com/Erotemic/pypogo - Pokemon Go calculations and POC battle simulator. (calculations are good, stalled on simulator logic, but might pick back up)
+ - https://github.com/Erotemic/shitspotter - Poop detection in images. (active)
 
 
 ### Gitlab Repos
 
-- https://gitlab.kitware.com.com/computer-vision/torch_liberator - Partial weight transfer between networks. 3rd place winner of PyTorch Hackaton 2021 https://devpost.com/software/torchliberator-partial-weight-loading
+- https://gitlab.kitware.com.com/computer-vision/torch_liberator - Partial weight transfer between networks. 3rd place winner of PyTorch Hackaton 2021 https://devpost.com/software/torchliberator-partial-weight-loading (kitware related)
 
-- https://gitlab.kitware.com.com/computer-vision/kwcoco - A computer-vision dataset manifest. Extension of MS-COCO.
-
-
-- https://gitlab.kitware.com.com/python/liberator - Static Python code extraction.
-- https://gitlab.kitware.com.com/utils/scriptconfig - Simplified script configuration via kwargs, cli, or yaml.
+- https://gitlab.kitware.com.com/computer-vision/kwcoco - A computer-vision dataset manifest. Extension of MS-COCO. (kitware project, active)
 
 
-- https://gitlab.kitware.com.com/computer-vision/kwarray - Kitware python array helpers
-- https://gitlab.kitware.com.com/computer-vision/kwimage - Kitware python image helpers
-- https://gitlab.kitware.com.com/computer-vision/kwplot - Kitware python plotting helpers
+- https://gitlab.kitware.com.com/python/liberator - Static Python code extraction. (kitware project)
+- https://gitlab.kitware.com.com/utils/scriptconfig - Simplified script configuration via kwargs, cli, or yaml. (kitware project, stable)
 
-- https://gitlab.kitware.com.com/computer-vision/netharn - Probably best to use pytorch-lightning instead, still cool network stuff in here through
-- https://gitlab.kitware.com.com/computer-vision/ndsampler - Fast windowed sampling from images
+
+- https://gitlab.kitware.com.com/computer-vision/kwarray - Kitware python array helpers (kitware project, stable)
+- https://gitlab.kitware.com.com/computer-vision/kwimage - Kitware python image helpers (kitware project, stable)
+- https://gitlab.kitware.com.com/computer-vision/kwplot - Kitware python plotting helpers (kitware project, stable)
+
+- https://gitlab.kitware.com.com/computer-vision/netharn - Probably best to use pytorch-lightning instead, still cool network stuff in here through (kitware project, deprecated in favor of pytorch-lightning)
+- https://gitlab.kitware.com.com/computer-vision/ndsampler - Fast windowed sampling from images (kitware project)
 
