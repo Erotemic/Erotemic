@@ -52,7 +52,7 @@
  - https://github.com/Erotemic/timerit - Pure python syntax for timeit-like timings of blocks of code. (mature)
  - https://github.com/Erotemic/git-sync - Commit your changes on a local machine and automatically pull them on a remote. (stable)
  - https://github.com/pyutils/line_profiler - I help maintain this widely used Python tool. (maintaining)
- - https://github.com/pyutils/googledoc - A google docstring parser and tools (alpha).
+ - https://github.com/Erotemic/googledoc - A google docstring parser and tools (alpha).
  - https://github.com/Erotemic/networkx_algo_common_subtree - A contrib repo containing specialized networkx algorithms for maximum common subtree problems.
 
 ### Animal Identification (products of my PhD)
