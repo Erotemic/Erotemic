@@ -70,19 +70,19 @@
 
 ### Gitlab Repos
 
-- https://gitlab.kitware.com.com/computer-vision/torch_liberator - Partial weight transfer between networks. 3rd place winner of PyTorch Hackaton 2021 https://devpost.com/software/torchliberator-partial-weight-loading (kitware related)
+- https://gitlab.kitware.com/computer-vision/torch_liberator - Partial weight transfer between networks. 3rd place winner of PyTorch Hackaton 2021 https://devpost.com/software/torchliberator-partial-weight-loading (kitware related)
 
-- https://gitlab.kitware.com.com/computer-vision/kwcoco - A computer-vision dataset manifest. Extension of MS-COCO. (kitware project, active)
-
-
-- https://gitlab.kitware.com.com/python/liberator - Static Python code extraction. (kitware project)
-- https://gitlab.kitware.com.com/utils/scriptconfig - Simplified script configuration via kwargs, cli, or yaml. (kitware project, stable)
+- https://gitlab.kitware.com/computer-vision/kwcoco - A computer-vision dataset manifest. Extension of MS-COCO. (kitware project, active)
 
 
-- https://gitlab.kitware.com.com/computer-vision/kwarray - Kitware python array helpers (kitware project, stable)
-- https://gitlab.kitware.com.com/computer-vision/kwimage - Kitware python image helpers (kitware project, stable)
-- https://gitlab.kitware.com.com/computer-vision/kwplot - Kitware python plotting helpers (kitware project, stable)
+- https://gitlab.kitware.com/python/liberator - Static Python code extraction. (kitware project)
+- https://gitlab.kitware.com/utils/scriptconfig - Simplified script configuration via kwargs, cli, or yaml. (kitware project, stable)
 
-- https://gitlab.kitware.com.com/computer-vision/netharn - Probably best to use pytorch-lightning instead, still cool network stuff in here through (kitware project, deprecated in favor of pytorch-lightning)
-- https://gitlab.kitware.com.com/computer-vision/ndsampler - Fast windowed sampling from images (kitware project)
+
+- https://gitlab.kitware.com/computer-vision/kwarray - Kitware python array helpers (kitware project, stable)
+- https://gitlab.kitware.com/computer-vision/kwimage - Kitware python image helpers (kitware project, stable)
+- https://gitlab.kitware.com/computer-vision/kwplot - Kitware python plotting helpers (kitware project, stable)
+
+- https://gitlab.kitware.com/computer-vision/netharn - Probably best to use pytorch-lightning instead, still cool network stuff in here through (kitware project, deprecated in favor of pytorch-lightning)
+- https://gitlab.kitware.com/computer-vision/ndsampler - Fast windowed sampling from images (kitware project)
 
