@@ -43,8 +43,8 @@
  
 ### Python packages and utilities
 
- - https://github.com/Erotemic/xdoctest - Python doctests done right. (mature)
- - https://github.com/Erotemic/ubelt - Python utilities you wish you had. (mature)
+ - https://github.com/Erotemic/xdoctest - Python doctest parser and runner. (mature)
+ - https://github.com/Erotemic/ubelt - Python utilities and stdlib extensions. (mature)
  - https://github.com/Erotemic/mkinit - Autogenerate Python `__init__.py` files that expose submodule APIs at the top-level. (mature)
  - https://github.com/Erotemic/vimtk - My Vim plugin, which contains useful functional macros and key remaps. (stable)
  - https://github.com/Erotemic/xdev - Python utilities useful for development and debugging. (stable)
