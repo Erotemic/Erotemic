@@ -86,3 +86,5 @@
 - https://gitlab.kitware.com/computer-vision/netharn - Probably best to use pytorch-lightning instead, still cool network stuff in here through (kitware project, deprecated in favor of pytorch-lightning)
 - https://gitlab.kitware.com/computer-vision/ndsampler - Fast windowed sampling from images (kitware project)
 
+### My Dotfiles
+- https://github.com/Erotemic/local
