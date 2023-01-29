@@ -58,6 +58,8 @@
 ### Animal Identification (products of my PhD)
 
  - https://github.com/Erotemic/ibeis - PhD Thesis project: automatic identification of patterned individual animals. Successor to hotspotter. (maintaining, help wanted with win32/osx support).
+ - https://github.com/Erotemic/pyhesaff - A maintained (pip installable) fork of Perdoch's Hessian Affine keypoints (maintaining)
+ - https://github.com/Erotemic/pyflann_ibeis - A maintained (pip installable) fork of FLANN (maintaining)
  - https://github.com/Erotemic/graphid - A standalone version of the graph identification algorithm from my thesis. (complete)
  - https://github.com/Erotemic/hotspotter - My original Python code for the hotspotter identification algorithm. (shoddy)
  - https://github.com/Erotemic/crall-thesis-2017 - The LaTeX source for my thesis. (complete)
