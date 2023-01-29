@@ -58,8 +58,6 @@
 ### Animal Identification (products of my PhD)
 
  - https://github.com/Erotemic/ibeis - PhD Thesis project: automatic identification of patterned individual animals. Successor to hotspotter. (maintaining, help wanted with win32/osx support).
- - https://github.com/Erotemic/pyhesaff - A maintained (pip installable) fork of Perdoch's Hessian Affine keypoints (maintaining)
- - https://github.com/Erotemic/pyflann_ibeis - A maintained (pip installable) fork of FLANN (maintaining)
  - https://github.com/Erotemic/graphid - A standalone version of the graph identification algorithm from my thesis. (complete)
  - https://github.com/Erotemic/hotspotter - My original Python code for the hotspotter identification algorithm. (shoddy)
  - https://github.com/Erotemic/crall-thesis-2017 - The LaTeX source for my thesis. (complete)
@@ -85,9 +83,10 @@
 - https://gitlab.kitware.com/computer-vision/kwimage - Kitware python image helpers (kitware project, stable)
 - https://gitlab.kitware.com/computer-vision/kwplot - Kitware python plotting helpers (kitware project, stable)
 
-- https://gitlab.kitware.com/computer-vision/netharn - Probably best to use pytorch-lightning instead, still cool network stuff in here through (kitware project, deprecated in favor of pytorch-lightning)
-- https://gitlab.kitware.com/computer-vision/ndsampler - Fast windowed sampling from images (kitware project)
-- https://gitlab.kitware.com/computer-vision/delayed_image - Symbolic delayed image operations. Operation trees are optimized to minimize load time. Delay, manipulate, and finalize. (kitware project)
+- https://gitlab.kitware.com/computer-vision/netharn - Probably best to use pytorch-lightning instead, still cool network stuff in here through (deprecated kitware project, in favor of pytorch-lightning)
+- https://gitlab.kitware.com/computer-vision/ndsampler - Fast windowed sampling from images (kitware project, stable)
+- https://gitlab.kitware.com/computer-vision/delayed_image - Symbolic delayed image operations. Operation trees are optimized to minimize load time. Delay, manipulate, and finalize. (kitware projectk, stable)
+- https://gitlab.kitware.com/computer-vision/cmd_queue - Execute a DAG of bash commands sequentially, in multiple tmux sessions, slurm, or airflow. (kitware project, stable)
 
 ### My Dotfiles
 - https://github.com/Erotemic/local
