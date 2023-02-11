@@ -12,7 +12,7 @@
 - 😄 Pronouns: he / him
 - 🏭 Born at 353 ppm CO₂
 - 🧠 I highly value being corrected; it makes me less incorrect, and I don't like being incorrect.
-- ⚡ Fun fact: the maximum amount of information that can be contained in a finite space is proportional to its surface area and not its volume. (https://en.wikipedia.org/wiki/Holographic_principle#Energy,_matter,_and_information_equivalence)
+- ⚡ Fun fact: [the maximum amount of information that can be contained in a finite space is proportional to its surface area and not its volume.](https://en.wikipedia.org/wiki/Holographic_principle#Energy,_matter,_and_information_equivalence)
  
  
 [![](https://img.shields.io/github/followers/Erotemic.svg?style=social&label=Follow:Erotemic)](https://github.com/Erotemic)
@@ -47,6 +47,9 @@
 | [kwplot](https://gitlab.kitware.com.com/computer-vision/kwplot)                   | nan                                                                                                                                                                         | [![Downloads](https://img.shields.io/pypi/dm/kwplot.svg)](https://pypistats.org/packages/kwplot)                   |
 | [netharn](https://gitlab.kitware.com.com/computer-vision/netharn)                 | nan                                                                                                                                                                         | [![Downloads](https://img.shields.io/pypi/dm/netharn.svg)](https://pypistats.org/packages/netharn)                 |
 | [ndsampler](https://gitlab.kitware.com.com/computer-vision/ndsampler)             | nan                                                                                                                                                                         | [![Downloads](https://img.shields.io/pypi/dm/ndsampler.svg)](https://pypistats.org/packages/ndsampler)             |
+| [delayed_image](https://gitlab.kitware.com.com/computer-vision/delayed_image)     | nan                                                                                                                                                                         | [![Downloads](https://img.shields.io/pypi/dm/delayed_image.svg)](https://pypistats.org/packages/delayed_image)     |
+| [cmd-queue](https://gitlab.kitware.com.com/computer-vision/cmd-queue)             | nan                                                                                                                                                                         | [![Downloads](https://img.shields.io/pypi/dm/cmd-queue.svg)](https://pypistats.org/packages/cmd-queue)             |
+| [watch](https://gitlab.kitware.com.com/watch/watch)                               | nan                                                                                                                                                                         | [![Downloads](https://img.shields.io/pypi/dm/watch.svg)](https://pypistats.org/packages/watch)                     |
 
  
  And then the details:
