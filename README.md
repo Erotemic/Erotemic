@@ -16,8 +16,9 @@
  
  
 [![](https://img.shields.io/github/followers/Erotemic.svg?style=social&label=Follow:Erotemic)](https://github.com/Erotemic)
+[![](https://img.shields.io/twitter/follow/erotemic?style=social)](https://twitter.com/Erotemic)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109538419145927960?domain=https%3A%2F%2Fsigmoid.social&style=social)](https://sigmoid.social/@erotemic)
 
-[![](https://img.shields.io/twitter/follow/Erotemic.svg?style=social)](https://twitter.com/Erotemic)
 
  All of the projects on this front page are my own and maintained by me. Here are is a list that goes beyond the six on the front page. First an overview:
  
