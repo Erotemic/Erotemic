@@ -20,7 +20,7 @@
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/109538419145927960?domain=https%3A%2F%2Fsigmoid.social&style=social)](https://sigmoid.social/@erotemic)
 
 
- All of the projects on this front page are my own and maintained by me. Here are is a list that goes beyond the six on the front page. First an overview:
+I am a maintainer of all of the projects on this front page. I either own them or I am a major contributor. The following table gives an overview, and then I have a few small blurbs about some of them.
  
 | md_name                                                                       | Github Stars                                                                                                                                                                   | Pypi Downloads                                                                                                     | Docs                                                                                                                                 |
 |:------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
