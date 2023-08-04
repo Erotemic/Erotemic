@@ -55,6 +55,8 @@ I am a maintainer of all of the projects on this front page. I either own them o
 | [cmd_queue](https://gitlab.kitware.com/computer-vision/cmd_queue)             | [![GitHub stars](https://img.shields.io/github/stars/Kitware/cmd_queue?style=social&label=stars:cmd_queue)](https://github.com/Kitware/cmd_queue)                              | [![Downloads](https://img.shields.io/pypi/dm/cmd_queue.svg)](https://pypistats.org/packages/cmd_queue)             | [![Docs](https://readthedocs.org/projects/cmd_queue/badge/?version=latest)](https://cmd_queue.readthedocs.io/en/latest/)             |
 | [geowatch](https://gitlab.kitware.com/computer-vision/geowatch)               | [![GitHub stars](https://img.shields.io/github/stars/Kitware/geowatch?style=social&label=stars:geowatch)](https://github.com/Kitware/geowatch)                                 | [![Downloads](https://img.shields.io/pypi/dm/geowatch.svg)](https://pypistats.org/packages/geowatch)               | [![Docs](https://readthedocs.org/projects/geowatch/badge/?version=latest)](https://geowatch.readthedocs.io/en/latest/)               |
 
+[![Star History Chart](https://api.star-history.com/svg?repos=Erotemic/xdoctest,Erotemic/ubelt,Erotemic/mkinit&type=Date)](https://star-history.com/#Erotemic/xdoctest&Erotemic/ubelt&Erotemic/mkinit&Date)
+
  
  And then the details:
  
