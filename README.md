@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on: computer vision research
 - 🌱 I’m currently learning: as much as possible
-- 🤔 I’m looking for help with: fixing any bugs in my repos
-- 💬 Ask me about: doctests
-- 📫 How to reach me: twitter
+- 🤔 I’m looking for help with: fixing bugs in my repos, lean4, win32-pyhesaff wheels, 
+- 💬 Ask me about: doctests, Python, graphs, image processing
+- 📫 How to reach me: mastodon / twitter
 - 😄 Pronouns: he / him
 - 🏭 Born at 353 ppm CO₂
 - 🧠 I highly value being corrected; it makes me less incorrect, and I don't like being incorrect.
