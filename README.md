@@ -68,7 +68,7 @@ I am a maintainer of all of the projects on this front page. I either own them o
  - https://github.com/Erotemic/xdev - Python utilities useful for development and debugging. (stable)
  - https://github.com/Erotemic/progiter - Small standalone progress bar. (mature)
  - https://github.com/Erotemic/timerit - Pure python syntax for timeit-like timings of blocks of code. (mature)
- - https://github.com/Erotemic/git-well - Git command line extensions. (stable)
+ - https://github.com/Erotemic/git_well - Git command line extensions. (stable)
  - https://github.com/pyutils/line_profiler - I help maintain this widely used Python tool. (maintaining)
  - https://github.com/Erotemic/googledoc - A google docstring parser and tools (alpha).
  - https://github.com/Erotemic/networkx_algo_common_subtree - A contrib repo containing specialized networkx algorithms for maximum common subtree problems (stable).
