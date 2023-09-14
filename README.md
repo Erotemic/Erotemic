@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on: computer vision research
 - 🌱 I’m currently learning: as much as possible
-- 🤔 I’m looking for help with: fixing bugs in my repos, lean4, win32-pyhesaff wheels, 
+- 🤔 I’m looking for help with: fixing bugs in my repos, lean4, win32-pyhesaff wheels, a [vexing delayed-image issue(https://gitlab.kitware.com/computer-vision/delayed_image/-/issues/1)]
 - 💬 Ask me about: doctests, Python, graphs, image processing
 - 📫 How to reach me: mastodon / twitter
 - 😄 Pronouns: he / him
