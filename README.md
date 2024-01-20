@@ -19,6 +19,8 @@
 [![](https://img.shields.io/twitter/follow/erotemic?style=social)](https://twitter.com/Erotemic)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/109538419145927960?domain=https%3A%2F%2Fsigmoid.social&style=social)](https://sigmoid.social/@erotemic)
 
+To learn about me in a professional context, see my [Kitware bio](https://www.kitware.com/jon-crall/), where I've been employed from 2007-~2010, break for grad school, and then again from 2017 - present. For my published and some unpublished papers, see my [google scholar profile](https://scholar.google.com/citations?user=zwRsVsAAAAAJ&hl=en). I also have a [blog](https://erotemic.wordpress.com/) where I muse. 
+
 
 I am a maintainer of all of the projects on this front page. I either own them or I am a major contributor. The following table gives an overview, and then I have a few small blurbs about some of them.
  
