@@ -12,7 +12,7 @@
 - 😄 Pronouns: he / him
 - 🏭 Born at 353 ppm CO₂
 - 🧠 I highly value being corrected; it makes me less incorrect, and I don't like being incorrect.
-- ⚡ Fun fact: [the maximum amount of information that can be contained in a finite space is proportional to its surface area and not its volume.](https://en.wikipedia.org/wiki/Holographic_principle#Energy,_matter,_and_information_equivalence)
+- ⚡ Fun fact: [if the holographic principle holds, the maximum amount of information that can be contained in a finite space is proportional to its surface area and not its volume.](https://en.wikipedia.org/wiki/Holographic_principle#Energy,_matter,_and_information_equivalence)
  
  
 [![](https://img.shields.io/github/followers/Erotemic.svg?style=social&label=Follow:Erotemic)](https://github.com/Erotemic)
