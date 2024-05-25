@@ -60,10 +60,10 @@ I am a maintainer of all of the projects on this front page. I either own them o
 
 Here is the rough full-dependency structure of these packages. Note many of the packages (e.g. ubelt) have minimal versions with no dependencies, but the visualization is for full dependency sets.
 
-![Package dependencies.]([https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif](https://i.imgur.com/5ez7nQK.png))
+![Package dependencies](https://i.imgur.com/5ez7nQK.png)
  
- And then the details:
- 
+And here are some logical groupings of the packages with links and descriptions: 
+
 ### Python packages and utilities
 
  - https://github.com/Erotemic/xdoctest - Python doctest parser and runner. (mature)
