@@ -58,6 +58,9 @@ I am a maintainer of all of the projects on this front page. I either own them o
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Erotemic/xdoctest,Erotemic/ubelt,Erotemic/mkinit&type=Date)](https://star-history.com/#Erotemic/xdoctest&Erotemic/ubelt&Erotemic/mkinit&Date)
 
+Here is the rough full-dependency structure of these packages. Note many of the packages (e.g. ubelt) have minimal versions with no dependencies, but the visualization is for full dependency sets.
+
+![Package dependencies.]([https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif](https://i.imgur.com/5ez7nQK.png))
  
  And then the details:
  
