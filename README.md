@@ -60,7 +60,7 @@ I am a maintainer of all of the projects on this front page. I either own them o
 
 Here is the rough full-dependency structure of these packages. Note many of the packages (e.g. ubelt) have minimal versions with no dependencies, but the visualization is for full dependency sets.
 
-![Package dependencies](https://i.imgur.com/5ez7nQK.png)
+![Package dependencies](https://i.imgur.com/A2ohosH.png)
  
 And here are some logical groupings of the packages with links and descriptions: 
 
