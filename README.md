@@ -8,9 +8,10 @@
 - 🌱 I’m currently learning: as much as possible, including: lean4, python-poetry, c/rust, javascript.
 - 🤔 I’m looking for help with: fixing bugs in my repos, lean4, win32-pyhesaff wheels, a [delayed-image speed issue](https://gitlab.kitware.com/computer-vision/delayed_image/-/issues/2)
 - 💬 Ask me about: doctests, Python, graphs, image processing
-- 📫 How to reach me: mastodon / twitter
+- 📫 How to reach me: mastodon / bsky
 - 😄 Pronouns: he / him
 - 🏭 Born at 353 ppm CO₂
+- 🔐 GPG Key: 4AC8B478335ED6ED667715F3622BE571405441B4
 - 🧠 I highly value being corrected; it makes me less incorrect, and I don't like being incorrect.
 - ⚡ Fun fact: [if the holographic principle holds, the maximum amount of information that can be contained in a finite space is proportional to its surface area and not its volume.](https://en.wikipedia.org/wiki/Holographic_principle#Energy,_matter,_and_information_equivalence)
  
