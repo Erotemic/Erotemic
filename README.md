@@ -9,7 +9,6 @@
 - 🤔 I’m looking for help with: fixing bugs in my repos, lean4, win32-pyhesaff wheels, a [delayed-image speed issue](https://gitlab.kitware.com/computer-vision/delayed_image/-/issues/2)
 - 💬 Ask me about: doctests, Python, graphs, image processing
 - 📫 How to reach me: mastodon / bsky
-- 😄 Pronouns: he / him
 - 🏭 Born at 353 ppm CO₂
 - 🔐 GPG Key: 4AC8B478335ED6ED667715F3622BE571405441B4
 - 🧠 I highly value being corrected; it makes me less incorrect, and I don't like being incorrect.
