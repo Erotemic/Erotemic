@@ -11,8 +11,8 @@
 - 📫 How to reach me: mastodon / bsky
 - 🏭 Born at 353 ppm CO₂
 - 🔐 GPG Key: 4AC8B478335ED6ED667715F3622BE571405441B4
-- 🧠 I like learning things and value critical thinking
-- ⚡ Fun fact: [if the holographic principle holds, the maximum amount of information that can be contained in a finite space is proportional to its surface area and not its volume.](https://en.wikipedia.org/wiki/Holographic_principle#Energy,_matter,_and_information_equivalence)
+- 🧠 I like learning things and value critical thinking - even though it can cause discomfort.
+- ⚡ Fun fact: [If the holographic principle holds, the maximum information that can fit in a region of space is determined by its surface area, not its volume.](https://en.wikipedia.org/wiki/Holographic_principle#Energy,_matter,_and_information_equivalence)
  
  
 [![](https://img.shields.io/github/followers/Erotemic.svg?style=social&label=Follow:Erotemic)](https://github.com/Erotemic)
