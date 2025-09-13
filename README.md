@@ -11,7 +11,7 @@
 - 📫 How to reach me: mastodon / bsky
 - 🏭 Born at 353 ppm CO₂
 - 🔐 GPG Key: 4AC8B478335ED6ED667715F3622BE571405441B4
-- 🧠 I like learning things and value critical thinking - even though it can cause discomfort.
+- 🧠 I enjoy learning and value the role of critical thinking in growth.
 - ⚡ Fun fact: [If the holographic principle holds, the maximum information that can fit in a region of space is determined by its surface area, not its volume.](https://en.wikipedia.org/wiki/Holographic_principle#Energy,_matter,_and_information_equivalence)
  
  
