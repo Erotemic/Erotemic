@@ -16,7 +16,7 @@
  
  
 [![](https://img.shields.io/github/followers/Erotemic.svg?style=social&label=Follow:Erotemic)](https://github.com/Erotemic)
-[![](https://img.shields.io/twitter/follow/erotemic?style=social)](https://twitter.com/Erotemic)
+[![Bluesky Follow](https://img.shields.io/badge/@erotemic.bsky.social-Follow-blue?logo=bluesky)](https://bsky.app/profile/erotemic.bsky.social)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/109538419145927960?domain=https%3A%2F%2Fsigmoid.social&style=social)](https://sigmoid.social/@erotemic)
 
 To learn about me in a professional context, see my [Kitware bio](https://www.kitware.com/jon-crall/), where I've been employed from 2007-~2010, break for grad school, and then again from 2017 - present. For my published and some unpublished papers, see my [google scholar profile](https://scholar.google.com/citations?user=zwRsVsAAAAAJ&hl=en). I also have a [blog](https://erotemic.wordpress.com/) where I muse. 
