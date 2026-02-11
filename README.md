@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on: computer vision research, dog poop detection
 - 🌱 I’m currently learning: as much as possible, including: lean4, rust/c, javascript.
-- 🤔 I’m looking for help with: implementing the line-profiler 6.0 roadmap, fixing bugs / improving my repos, lean4, win32-pyhesaff wheels, a [delayed-image speed issue](https://gitlab.kitware.com/computer-vision/delayed_image/-/issues/2)
+- 🤔 I’m looking for help with: implementing the line-profiler 6.0 roadmap, fixing bugs / improving my repos, lean4, a [delayed-image speed issue](https://gitlab.kitware.com/computer-vision/delayed_image/-/issues/2)
 - 💬 Ask me about: doctests, Python, graphs, image processing
 - 📫 How to reach me: mastodon / bsky
 - 🏭 Born at 353 ppm CO₂
